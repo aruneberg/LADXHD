@@ -15,6 +15,7 @@ You can build it easily by cloning the repository and running the GitHub action 
 The following commands process can be used to build that on Linux, assuming .NET 6.0 with the right target available:
 
 ```bash
+
 winetricks d3dcompiler_47 dotnet6
 dotnet tool restore
 MGFXC_WINE_PATH=$WINEPREFIX dotnet publish -c Release -o <outdir>

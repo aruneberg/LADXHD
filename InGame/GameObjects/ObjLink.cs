@@ -3635,7 +3635,7 @@ namespace ProjectZ.InGame.GameObjects
             // used in ObjStoreItem to not return the item to the shelf
             Game1.GameManager.SaveManager.SetString("result", "0");
 
-            Game1.GameManager.SaveName = "Жулик";
+            Game1.GameManager.SaveName = "Tyv";
 
             // add the item to the inventory
             var strItem = Game1.GameManager.SaveManager.GetString("itemShopItem");

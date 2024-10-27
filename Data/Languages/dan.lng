@@ -1,7 +1,7 @@
 main_menu_select_header Vælg Spiller
 main_menu_bottom_header 
 main_menu_new_game Nyt Spil
-main_menu_settings Indstillinger
+main_menu_settings Opsætning
 main_menu_copy Kopier
 main_menu_erase Slet
 main_menu_quit Afslut
@@ -38,7 +38,7 @@ gameover_header Game Over
 gameover_continue Fortsæt
 gameover_quit Afslut
 
-settings_menu_header Indstillinger
+settings_menu_header Opsætning
 settings_menu_game Spil
 settings_menu_audio Lyd
 settings_menu_controls Kontroller

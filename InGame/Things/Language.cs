@@ -18,8 +18,8 @@ namespace ProjectZ.InGame.Things
             // go through the .lng files and fill the _languageStrings dictionary array
             var files = Directory.GetFiles(Values.PathLanguageFolder);
             var languageStrings = new Dictionary<string, Dictionary<string, string>>();
-            // the default (first) entry is russian
-            languageStrings.Add("rus", new Dictionary<string, string>());
+            // the default (first) entry is danish
+            languageStrings.Add("dan", new Dictionary<string, string>());
 
             for (var i = 0; i < files.Length; i++)
             {
@@ -30,10 +30,10 @@ namespace ProjectZ.InGame.Things
                     var split = fileName.Split('_');
                     var lngName = "";
 
-                    // rus.lng
+                    // dan.lng
                     if (split.Length == 1)
                         lngName = split[0];
-                    // dialog_rus.lng
+                    // dialog_dan.lng
                     if (split.Length == 2)
                         lngName = split[1];
 

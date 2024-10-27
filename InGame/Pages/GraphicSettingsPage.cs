@@ -33,7 +33,7 @@ namespace ProjectZ.InGame.Pages
                     GameSettings.GameScale = number;
                     Game1.ScaleSettingChanged = true;
                 })
-            { SetString = number => GameSettings.GameScale == 11 ? "Авто" : " x" + (number < 1 ? "1/" + (2 - number) : number.ToString()) };
+            { SetString = number => GameSettings.GameScale == 11 ? "Auto" : " x" + (number < 1 ? "1/" + (2 - number) : number.ToString()) };
             contentLayout.AddElement(_gameScaleSlider);
 
             //contentLayout.AddElement(_uiScaleSlider = new InterfaceSlider(Resources.GameFont, "settings_graphics_ui_scale",

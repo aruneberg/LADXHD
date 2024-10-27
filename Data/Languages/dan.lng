@@ -1,0 +1,85 @@
+main_menu_select_header Vælg Spiller
+main_menu_bottom_header 
+main_menu_new_game Nyt Spil
+main_menu_settings Indstillinger
+main_menu_copy Kopier
+main_menu_erase Slet
+main_menu_quit Afslut
+
+main_menu_delete_confirmation_header Vil du slette gemfilen?
+main_menu_delete_confirmation_header_yes Ja
+main_menu_delete_confirmation_header_no Nej
+
+main_menu_copy_confirmation_header Vil du kopiere gemfilen?
+main_menu_copy_confirmation_header_yes Ja
+main_menu_copy_confirmation_header_no Nej
+
+main_menu_copy_header Kopier Gemfil
+main_menu_copy_from Fra
+main_menu_copy_to Til
+main_menu_copy_empty -Tom-
+main_menu_copy_arrow ±
+main_menu_copy_back Tilbage
+
+new_game_menu_save_name DIT NAVN?
+new_game_menu_back Tilbage
+new_game_menu_start_game Start Spil
+
+game_menu_header Menu
+game_menu_back_to_game Tilbage til Spillet
+game_menu_settings Indstillinger
+game_menu_exit_to_the_menu Afslut til Menuen
+
+game_menu_exit_header Er du sikker?
+game_menu_exit_no Nej
+game_menu_exit_yes Ja
+
+gameover_header Game Over
+gameover_continue Fortsæt
+gameover_quit Afslut
+
+settings_menu_header Indstillinger
+settings_menu_game Spil
+settings_menu_audio Lyd
+settings_menu_controls Kontroller
+settings_menu_video Video
+settings_menu_back Tilbage
+
+settings_audio_header Lydindstillinger
+settings_audio_music_volume Musikvolumen:
+settings_audio_effect_volume Effektvolumen:
+
+settings_game_header Spilindstillinger
+settings_game_language Sprog: Dansk
+settings_game_change_language Skift Sprog
+settings_game_autosave Autosave
+settings_game_change_smooth_camera Glidende Kamera
+settings_game_fullscreen_windowed Vindue uden Kant
+settings_game_fullscreen_mode Fuldskærm
+
+settings_controls_header Kontrolindstillinger
+settings_controls_keyboad Tastatur
+settings_controls_gamepad Gamepad
+settings_controls_Left Venstre
+settings_controls_Right Højre
+settings_controls_Up Op
+settings_controls_Down Ned
+settings_controls_A A
+settings_controls_B B
+settings_controls_X X
+settings_controls_Y Y
+settings_controls_Select Vælg
+settings_controls_Start Start
+settings_controls_L L
+settings_controls_R R
+settings_controls_reset Nulstil
+
+settings_graphics_header Videoindstillinger
+settings_graphics_game_scale Spilskala:
+settings_graphics_ui_scale UI Skala:
+settings_graphics_shadow Skygger
+settings_graphics_fps_lock FPS Begrænsning
+
+map_overlay_close Luk
+overlay_map Kort
+overlay_inventory Inventar

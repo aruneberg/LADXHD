@@ -30,14 +30,14 @@ namespace ProjectZ.InGame.Pages
         {
             { 'Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P', 'Å' },
             { 'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'Æ', 'Ø' },
-            { CapsLockCharacter,  'Z', 'X', 'C', 'V', 'B', 'N', 'M', ',', '.', '-', ' ' , BackCharacter }
+            { CapsLockCharacter,  'Z', 'X', 'C', 'V', 'B', 'N', 'M', '.', ' ' , BackCharacter }
         };
 
         private char[,] _charactersLower = new char[,]
         {
             { 'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p', 'å' },
             { 'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'æ', 'ø' },
-            { CapsLockCharacter,  'z', 'x', 'c', 'v', 'b', 'n', 'm', ',', '.', '-', ' ' , BackCharacter }
+            { CapsLockCharacter,  'z', 'x', 'c', 'v', 'b', 'n', 'm', '.', ' ' , BackCharacter }
         };
 
         public NewGamePage(int width, int height)
